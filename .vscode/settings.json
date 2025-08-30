@@ -1,0 +1,42 @@
+{
+  "cSpell.words": [
+    "AHTX",
+    "atmega",
+    "ATTINY",
+    "ATTINYCORE",
+    "ATTINYX",
+    "BITBANG",
+    "Datatypes",
+    "DDRAM",
+    "DDRB",
+    "DIGISPARK",
+    "digistump",
+    "fqbn",
+    "Hiroaki",
+    "ifndef",
+    "micr",
+    "microcontroller",
+    "microcontrollers",
+    "OLED",
+    "PINB",
+    "PORTB",
+    "PRINTLNHEX",
+    "promicro",
+    "PULLUP",
+    "SHIBUKI",
+    "stdint"
+  ],
+  "C_Cpp.formatting": "clangFormat",
+  "C_Cpp.clang_format_style": "{ BasedOnStyle: LLVM, IndentWidth: 2, TabWidth: 2, UseTab: Never, BreakBeforeBraces: Attach, AllowShortIfStatementsOnASingleLine: WithoutElse, AllowShortLoopsOnASingleLine: true, AllowShortFunctionsOnASingleLine: Empty, AllowShortBlocksOnASingleLine: Always, AllowShortCaseLabelsOnASingleLine: true, SpaceAfterCStyleCast: false, SpaceBeforeParens: ControlStatements, ColumnLimit: 120, AlignAfterOpenBracket: Align, BinPackParameters: true, BinPackArguments: true, AlignConsecutiveAssignments: false, AlignConsecutiveDeclarations: false, AlignOperands: true, AlignTrailingComments: false, SpaceInEmptyParentheses: false, SpacesInParentheses: false, SpacesInSquareBrackets: false, SpaceBeforeAssignmentOperators: true, ContinuationIndentWidth: 2, IndentCaseLabels: true, IndentPPDirectives: None, MaxEmptyLinesToKeep: 2, NamespaceIndentation: None, PointerAlignment: Left, SpaceAfterTemplateKeyword: true, SpaceBeforeCtorInitializerColon: true, SpaceBeforeInheritanceColon: true, SpaceBeforeRangeBasedForLoopColon: true, Standard: Cpp11, BreakStringLiterals: false, CompactNamespaces: true, FixNamespaceComments: false, ReflowComments: false, SortIncludes: false, AlignEscapedNewlines: Left, SpacesBeforeTrailingComments: 2 }",
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  }
+}

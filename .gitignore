@@ -1,0 +1,6 @@
+.github/copilot-instructions.md
+tmp/
+build/
+*.lst
+examples/*/MicroI2CMaster.cpp
+examples/*/MicroDebugSerial.cpp

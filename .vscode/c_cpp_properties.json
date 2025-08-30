@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "name": "Arduino",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "${workspaceFolder}/src",
+        "${HOME}/Arduino/sources/libraries/**",
+        "${HOME}/.arduino15/packages/arduino/hardware/avr/*/cores/arduino",
+        "${HOME}/.arduino15/packages/arduino/hardware/avr/*/variants/micro",
+        "${HOME}/.arduino15/packages/arduino/hardware/avr/*/libraries/*/src"
+      ],
+      "defines": [
+        "ARDUINO=10819",
+        "ARDUINO_AVR_MICRO",
+        "ARDUINO_ARCH_AVR",
+        "__AVR_ATmega328P__"
+      ],
+      "browse": {
+        "path": [
+          "${workspaceFolder}/src",
+          "${workspaceFolder}/**",
+          "${HOME}/Arduino/sources/libraries/**",
+          "${HOME}/.arduino15/packages/arduino/hardware/avr/*/libraries/*/src"
+        ],
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "compilerPath": "${HOME}/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-gcc",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "gcc-x64"
+    }
+  ],
+  "version": 4
+}
