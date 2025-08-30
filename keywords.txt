@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For MicroI2CMaster
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+MicroI2CMaster_begin	KEYWORD2
+MicroI2CMaster_start	KEYWORD2
+MicroI2CMaster_stop	KEYWORD2
+MicroI2CMaster_write	KEYWORD2
+MicroI2CMaster_read	KEYWORD2
+MicroI2CMaster_scan	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MICRO_I2C_MASTER_SDA	LITERAL1
+MICRO_I2C_MASTER_SCL	LITERAL1
+MICRO_I2C_MASTER_DELAY	LITERAL1
